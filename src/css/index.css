@@ -1,0 +1,9 @@
+.container {
+  color: red;
+  background-image: url("../assets/work-order.svg");
+  background-repeat: no-repeat;
+}
+
+.img {
+  margin-top: 80px;
+}

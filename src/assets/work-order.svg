@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>控制台-工单工作台</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.1495707%" y1="99.2699856%" x2="50.1495707%" y2="-0.236239884%" id="linearGradient-1">
+            <stop stop-color="#FFAC2B" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.1495707%" y1="99.2699856%" x2="50.1495707%" y2="-0.236239884%" id="linearGradient-2">
+            <stop stop-color="#FFAC2B" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控制台-工单工作台" transform="translate(-2.000000, -3.000000)">
+            <g id="Group-10" transform="translate(2.000000, 3.000000)">
+                <rect id="Rectangle" stroke="#FF8A2B" fill="url(#linearGradient-1)" x="2.76666667" y="0.5" width="10.3333333" height="8.63333333" rx="0.75"></rect>
+                <rect id="Rectangle" stroke="#FF6734" fill="#FF6734" x="5.78888889" y="3.14444444" width="4.28888889" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-Copy-66" stroke="#FF6734" fill="#FF6734" x="5.78888889" y="5.78888889" width="3.40740741" height="1" rx="0.5"></rect>
+                <path d="M2.95262397,5.78888889 L0.5,6.03888889 L0.75,13.4777778 L15.3666667,13.2277778 L15.1166667,5.78888889 L12.9003689,5.78888889 L11.8062094,8.30740741 L3.8945133,8.30740741 L2.95262397,5.78888889 Z" id="Rectangle" stroke="#FF8A2B" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
